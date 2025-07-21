@@ -14,3 +14,22 @@ chỉ giải thích , không code hoặc thay đổi nội dung gì khi được
 hãy xem qua file @PRPs/BRD.md và @PRPs/Customer_Journey.md , sau đó xây dựng cho tôi một file @docs/features.md để làm rõ các tính năng cần thiết cho dự án phù hợp với MVP 
 ---
 /sc:design architecture --persona-architect chỉnh lại file @docs/Planning.md và @docs/Task.md phù hợp với dự án hiện tại 
+---
+giúp tôi remove git remote hiện tại và add lại git remote mới https://github.com/trangtoan293/trang_vien_so.git
+---
+please deploy the application with minimal function that I can review 
+update check list after deploying completely each function
+---
+/sc:workflow @docs/Planning.md --strategy systematic please deploy the application with minimal function that I can review update check list after deploying completely each function
+---
+/sc:spawn create a sub-task if you need it 
+--- 
+show me how to test the application after implementing 
+---
+tôi đã cập nhật lại database connection trong .env .
+postgresql://postgres:password@localhost:5432/trang_vien_so
+hãy thực hiện lại test 
+---
+thực hiện lại test theo kịch bản @scripts/test-api.js 
+--- 
+hãy giúp tôi debug các lỗi khi test các function

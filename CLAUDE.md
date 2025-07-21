@@ -1,0 +1,1 @@
+always using UV to manage dependencies and run application if it related to python  
